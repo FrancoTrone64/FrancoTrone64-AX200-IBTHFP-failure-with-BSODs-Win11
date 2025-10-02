@@ -70,6 +70,7 @@ Formal clarification is requested from Microsoft regarding:
 ## 🔗 External Threads
 
 - [Reddit – Beelink Official Thread](https://www.reddit.com/r/BeelinkOfficial/comments/1ntb0b5/comment/ngysl52)
+- [Intel Community – risposta moderatore + SSU](https://community.intel.com/t5/Wireless/AX200-Bluetooth-BSOD-0x65-with-IBTHFSP-SYS-during-Phone-Link/m-p/1720167#M61778)
 
 ---
 
